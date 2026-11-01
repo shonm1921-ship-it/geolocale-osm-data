@@ -1,0 +1,57 @@
+name: Weekly refresh
+
+# Rebuilds every city from the latest OpenStreetMap extracts (Geofabrik) and republishes it.
+# GeoLocale's /api/overpass reads manifest.json, so the new files are live within ten minutes.
+# A city whose rebuild lost more than 30% of its places is held back and the published file stays.
+on:
+  schedule:
+    - cron: "0 1 * * 0"   # Sundays, 01:00 UTC
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Regions to rebuild, comma separated (empty: all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        worker: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: shonm1921-ship-it/geolocale-osm-build
+          path: build-scripts
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Room for the largest extracts
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+      - run: pip install osmium==4.3.2
+      - name: Build and publish this worker's share
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNDATA_PYTHON: python
+          OWNDATA_SCRIPTS: ${{ github.workspace }}/build-scripts
+          ONLY: ${{ inputs.only }}
+        run: |
+          git config user.name "geolocale-data-bot"
+          git config user.email "geolocale-data-bot@users.noreply.github.com"
+          mkdir -p work
+          node build-scripts/world.mjs work . --worker ${{ matrix.worker }}/10 ${ONLY:+--only "$ONLY"}
