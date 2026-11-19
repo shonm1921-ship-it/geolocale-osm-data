@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T14:47:55.491Z",
+ "generated": "2026-11-19T14:52:59.197Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -6895,12 +6895,12 @@
    "w": 179.0019,
    "n": -8.4206,
    "e": 179.2881,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-18T21:21:02Z",
    "places": 74,
    "lines": 10,
    "buildings": 1865,
    "source": "region-0.osm.pbf",
-   "bytes": 16088,
+   "bytes": 16087,
    "rawBytes": 106496,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/funafuti.sqlite.gz"
   },
