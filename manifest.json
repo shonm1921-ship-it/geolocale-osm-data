@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T14:52:59.197Z",
+ "generated": "2026-11-19T14:53:20.678Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -23691,12 +23691,12 @@
    "w": 166.8456,
    "n": -0.4356,
    "e": 167.0174,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-18T21:21:02Z",
    "places": 88,
    "lines": 32,
-   "buildings": 2633,
+   "buildings": 2632,
    "source": "region-3.osm.pbf",
-   "bytes": 24390,
+   "bytes": 24384,
    "rawBytes": 126976,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/yaren.sqlite.gz"
   },
