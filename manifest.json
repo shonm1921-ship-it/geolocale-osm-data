@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:31:39.594Z",
+ "generated": "2026-11-20T04:45:24.785Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -22552,13 +22552,13 @@
    "w": 14.4038,
    "n": 35.9854,
    "e": 14.5982,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5644,
-   "lines": 2092,
-   "buildings": 20930,
+   "osm_date": "2026-11-19T21:22:20Z",
+   "places": 5658,
+   "lines": 2106,
+   "buildings": 20960,
    "source": "region-2.osm.pbf",
-   "bytes": 833457,
-   "rawBytes": 2838528,
+   "bytes": 837625,
+   "rawBytes": 2846720,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-europe/valletta.sqlite.gz"
   },
   {
