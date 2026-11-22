@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:00:52.122Z",
+ "generated": "2026-11-22T11:01:18.761Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -2815,12 +2815,12 @@
    "w": 21.241,
    "n": 41.1056,
    "e": 21.4259,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 390,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 394,
    "lines": 182,
-   "buildings": 5196,
+   "buildings": 5222,
    "source": "region-2.osm.pbf",
-   "bytes": 93682,
+   "bytes": 93992,
    "rawBytes": 380928,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-europe/bitola.sqlite.gz"
   },
@@ -19883,13 +19883,13 @@
    "w": 21.2753,
    "n": 42.0804,
    "e": 21.5772,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5092,
-   "lines": 894,
-   "buildings": 29346,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 5108,
+   "lines": 901,
+   "buildings": 29357,
    "source": "region-2.osm.pbf",
-   "bytes": 660432,
-   "rawBytes": 2318336,
+   "bytes": 663144,
+   "rawBytes": 2322432,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-europe/skopje.sqlite.gz"
   },
   {
