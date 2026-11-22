@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:23:41.365Z",
+ "generated": "2026-11-22T08:25:28.310Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -11791,13 +11791,13 @@
    "w": 9.3769,
    "n": 0.4945,
    "e": 9.5674,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 1822,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 1831,
    "lines": 545,
-   "buildings": 114655,
+   "buildings": 114667,
    "source": "region-8.osm.pbf",
-   "bytes": 455112,
-   "rawBytes": 1724416,
+   "bytes": 456048,
+   "rawBytes": 1732608,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/libreville.sqlite.gz"
   },
   {
