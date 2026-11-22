@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:05:11.888Z",
+ "generated": "2026-11-22T11:06:38.402Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -1829,12 +1829,12 @@
    "w": -16.7843,
    "n": 13.5524,
    "e": -16.5027,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 988,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 989,
    "lines": 227,
    "buildings": 97430,
    "source": "region-2.osm.pbf",
-   "bytes": 265531,
+   "bytes": 265582,
    "rawBytes": 983040,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/banjul.sqlite.gz"
   },
@@ -5331,13 +5331,13 @@
    "w": -17.5872,
    "n": 14.8254,
    "e": -17.3683,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 6873,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 6876,
    "lines": 706,
-   "buildings": 77426,
+   "buildings": 77434,
    "source": "region-2.osm.pbf",
-   "bytes": 740867,
-   "rawBytes": 2314240,
+   "bytes": 741047,
+   "rawBytes": 2318336,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/dakar.sqlite.gz"
   },
   {
@@ -21430,12 +21430,12 @@
    "w": -17.0047,
    "n": 14.8724,
    "e": -16.8403,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 464,
    "lines": 194,
    "buildings": 8972,
    "source": "region-2.osm.pbf",
-   "bytes": 93824,
+   "bytes": 93825,
    "rawBytes": 364544,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/thies.sqlite.gz"
   },
