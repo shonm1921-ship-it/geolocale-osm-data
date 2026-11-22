@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:32:33.558Z",
+ "generated": "2026-11-22T08:32:36.548Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -13780,12 +13780,12 @@
    "w": -10.8788,
    "n": 6.4074,
    "e": -10.6522,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 1239,
    "lines": 190,
-   "buildings": 196566,
+   "buildings": 196584,
    "source": "region-9.osm.pbf",
-   "bytes": 364958,
+   "bytes": 364999,
    "rawBytes": 1511424,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/monrovia.sqlite.gz"
   },
