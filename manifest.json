@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:30:42.377Z",
+ "generated": "2026-11-22T08:32:33.558Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -78,13 +78,13 @@
    "w": -4.1446,
    "n": 5.4497,
    "e": -3.8223,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 18888,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 18894,
    "lines": 1117,
-   "buildings": 335940,
+   "buildings": 335937,
    "source": "region-8.osm.pbf",
-   "bytes": 1987327,
-   "rawBytes": 6389760,
+   "bytes": 1988059,
+   "rawBytes": 6397952,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/abidjan.sqlite.gz"
   },
   {
@@ -3104,12 +3104,12 @@
    "w": -5.118,
    "n": 7.7887,
    "e": -4.9442,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 2532,
    "lines": 141,
    "buildings": 140019,
    "source": "region-8.osm.pbf",
-   "bytes": 365301,
+   "bytes": 365326,
    "rawBytes": 1318912,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/bouake.sqlite.gz"
   },
