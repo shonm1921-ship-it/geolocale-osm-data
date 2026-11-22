@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:07:45.719Z",
+ "generated": "2026-11-22T11:08:49.669Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -16874,12 +16874,12 @@
    "w": -72.4691,
    "n": 18.6618,
    "e": -72.2133,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 6984,
-   "lines": 442,
-   "buildings": 195126,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 6993,
+   "lines": 439,
+   "buildings": 195153,
    "source": "region-2.osm.pbf",
-   "bytes": 925055,
+   "bytes": 925719,
    "rawBytes": 3616768,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/portauprince.sqlite.gz"
   },
@@ -18999,13 +18999,13 @@
    "w": -70.0407,
    "n": 18.5704,
    "e": -69.813,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 8187,
-   "lines": 926,
-   "buildings": 38546,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 8200,
+   "lines": 930,
+   "buildings": 38604,
    "source": "region-2.osm.pbf",
-   "bytes": 995610,
-   "rawBytes": 3440640,
+   "bytes": 997425,
+   "rawBytes": 3448832,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/santodomingo.sqlite.gz"
   },
   {
