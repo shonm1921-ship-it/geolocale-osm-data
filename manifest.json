@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:01:29.627Z",
+ "generated": "2026-11-22T08:01:58.583Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -8510,12 +8510,12 @@
    "w": 159.8517,
    "n": -9.3575,
    "e": 160.0933,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 174,
    "lines": 45,
-   "buildings": 24767,
+   "buildings": 24776,
    "source": "region-3.osm.pbf",
-   "bytes": 84425,
+   "bytes": 84727,
    "rawBytes": 364544,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/honiara.sqlite.gz"
   },
