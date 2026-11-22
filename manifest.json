@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:01:58.583Z",
+ "generated": "2026-11-22T08:03:01.242Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -10720,7 +10720,7 @@
    "w": 158.0921,
    "n": 7.0574,
    "e": 158.3779,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 186,
    "lines": 40,
    "buildings": 9845,
