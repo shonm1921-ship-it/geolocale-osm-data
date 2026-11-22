@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:25:28.310Z",
+ "generated": "2026-11-22T08:29:25.647Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -15225,12 +15225,12 @@
    "w": -16.0735,
    "n": 18.1874,
    "e": -15.8391,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 2399,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 2400,
    "lines": 276,
    "buildings": 270492,
    "source": "region-8.osm.pbf",
-   "bytes": 431992,
+   "bytes": 432082,
    "rawBytes": 1642496,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/nouakchott.sqlite.gz"
   },
