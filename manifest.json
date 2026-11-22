@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:18:13.417Z",
+ "generated": "2026-11-22T08:18:43.226Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -5739,13 +5739,13 @@
    "w": 125.4619,
    "n": -8.4476,
    "e": 125.6781,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 964,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 944,
    "lines": 226,
-   "buildings": 75311,
+   "buildings": 75196,
    "source": "region-8.osm.pbf",
-   "bytes": 215846,
-   "rawBytes": 790528,
+   "bytes": 213103,
+   "rawBytes": 786432,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/dili.sqlite.gz"
   },
   {
