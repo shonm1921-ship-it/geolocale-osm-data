@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:55:03.483Z",
+ "generated": "2026-11-22T07:55:36.337Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -12624,12 +12624,12 @@
    "w": 170.9821,
    "n": 7.1838,
    "e": 171.4479,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 134,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 137,
    "lines": 17,
    "buildings": 4804,
    "source": "region-1.osm.pbf",
-   "bytes": 34814,
+   "bytes": 35196,
    "rawBytes": 159744,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/majuro.sqlite.gz"
   },
