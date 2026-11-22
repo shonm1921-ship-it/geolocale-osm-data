@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:56:28.431Z",
+ "generated": "2026-11-22T07:56:29.944Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -17044,12 +17044,12 @@
    "w": 168.2243,
    "n": -17.6393,
    "e": 168.4087,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 568,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 573,
    "lines": 41,
-   "buildings": 33200,
+   "buildings": 33199,
    "source": "region-0.osm.pbf",
-   "bytes": 129816,
+   "bytes": 130431,
    "rawBytes": 495616,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/portvila.sqlite.gz"
   },
