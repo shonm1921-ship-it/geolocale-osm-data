@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:06:14.995Z",
+ "generated": "2026-11-22T08:07:23.470Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -2781,13 +2781,13 @@
    "w": 74.4581,
    "n": 43.004,
    "e": 74.7239,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 6133,
-   "lines": 1394,
-   "buildings": 146301,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 6096,
+   "lines": 1393,
+   "buildings": 146234,
    "source": "region-3.osm.pbf",
-   "bytes": 1021321,
-   "rawBytes": 3710976,
+   "bytes": 1018773,
+   "rawBytes": 3702784,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/bishkek.sqlite.gz"
   },
   {
@@ -9105,12 +9105,12 @@
    "w": 72.8628,
    "n": 41.0344,
    "e": 73.0902,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 686,
    "lines": 187,
-   "buildings": 13397,
+   "buildings": 13398,
    "source": "region-3.osm.pbf",
-   "bytes": 135829,
+   "bytes": 135711,
    "rawBytes": 540672,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/jalalabad.sqlite.gz"
   },
@@ -15752,13 +15752,13 @@
    "w": 72.6965,
    "n": 40.6117,
    "e": 72.8965,
-   "osm_date": "2026-10-30T21:24:51Z",
-   "places": 1008,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 1012,
    "lines": 349,
-   "buildings": 9534,
+   "buildings": 9799,
    "source": "region-3.osm.pbf+region-3.osm.pbf",
-   "bytes": 189514,
-   "rawBytes": 675840,
+   "bytes": 191028,
+   "rawBytes": 684032,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/osh.sqlite.gz"
   },
   {
