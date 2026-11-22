@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:55:40.388Z",
+ "generated": "2026-11-22T07:55:46.555Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -10771,12 +10771,12 @@
    "w": 134.3821,
    "n": 7.4344,
    "e": 134.6239,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 215,
    "lines": 99,
    "buildings": 2905,
    "source": "region-3.osm.pbf",
-   "bytes": 46705,
+   "bytes": 46715,
    "rawBytes": 225280,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-australia-oceania/koror.sqlite.gz"
   },
