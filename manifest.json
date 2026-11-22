@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:55:46.555Z",
+ "generated": "2026-11-22T07:55:54.133Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -2798,12 +2798,12 @@
    "w": -15.6838,
    "n": 11.9574,
    "e": -15.5105,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 237,
    "lines": 100,
-   "buildings": 35878,
+   "buildings": 35976,
    "source": "region-1.osm.pbf",
-   "bytes": 98375,
+   "bytes": 98638,
    "rawBytes": 397312,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/bissau.sqlite.gz"
   },
