@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:47:04.462Z",
+ "generated": "2026-11-22T08:51:00.770Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -1693,13 +1693,13 @@
    "w": -8.096,
    "n": 12.7324,
    "e": -7.9065,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5497,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 5496,
    "lines": 761,
-   "buildings": 410110,
+   "buildings": 410762,
    "source": "region-8.osm.pbf",
-   "bytes": 793461,
-   "rawBytes": 2740224,
+   "bytes": 794564,
+   "rawBytes": 2748416,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/bamako.sqlite.gz"
   },
   {
