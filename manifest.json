@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:56:47.857Z",
+ "generated": "2026-11-22T07:56:56.247Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -14681,12 +14681,12 @@
    "w": -77.6044,
    "n": 25.1504,
    "e": -77.1856,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 1332,
-   "lines": 532,
-   "buildings": 72721,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 1334,
+   "lines": 534,
+   "buildings": 72724,
    "source": "region-0.osm.pbf",
-   "bytes": 356568,
+   "bytes": 357697,
    "rawBytes": 1396736,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/nassau.sqlite.gz"
   },
