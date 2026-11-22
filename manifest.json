@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:09:57.892Z",
+ "generated": "2026-11-22T08:11:09.501Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -12658,12 +12658,12 @@
    "w": 8.7045,
    "n": 3.8374,
    "e": 8.8725,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 313,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 316,
    "lines": 160,
    "buildings": 5544,
    "source": "region-8.osm.pbf",
-   "bytes": 78141,
+   "bytes": 78367,
    "rawBytes": 311296,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/malabo.sqlite.gz"
   },
