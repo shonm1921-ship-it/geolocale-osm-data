@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:55:54.133Z",
+ "generated": "2026-11-22T07:56:19.531Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -19050,12 +19050,12 @@
    "w": 6.6226,
    "n": 0.4154,
    "e": 6.8124,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 339,
    "lines": 106,
    "buildings": 12731,
    "source": "region-2.osm.pbf",
-   "bytes": 80027,
+   "bytes": 80066,
    "rawBytes": 315392,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/saotome.sqlite.gz"
   },
