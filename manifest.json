@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:13:43.447Z",
+ "generated": "2026-11-22T11:15:41.200Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -7626,13 +7626,13 @@
    "w": -90.6176,
    "n": 14.7094,
    "e": -90.4074,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 8490,
-   "lines": 1833,
-   "buildings": 62432,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 8502,
+   "lines": 1837,
+   "buildings": 62459,
    "source": "region-2.osm.pbf",
-   "bytes": 1075345,
-   "rawBytes": 3862528,
+   "bytes": 1078180,
+   "rawBytes": 3870720,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/guatemalacity.sqlite.gz"
   },
   {
