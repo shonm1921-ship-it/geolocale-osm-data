@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:11:08.810Z",
+ "generated": "2026-11-22T11:12:00.091Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -22280,13 +22280,13 @@
    "w": 106.6795,
    "n": 47.9924,
    "e": 107.0705,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 8661,
-   "lines": 1433,
-   "buildings": 223803,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 8662,
+   "lines": 1555,
+   "buildings": 223706,
    "source": "region-2.osm.pbf",
-   "bytes": 1276109,
-   "rawBytes": 5132288,
+   "bytes": 1288050,
+   "rawBytes": 5181440,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/ulaanbaatar.sqlite.gz"
   },
   {
