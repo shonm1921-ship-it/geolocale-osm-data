@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:58:48.640Z",
+ "generated": "2026-11-22T07:59:44.044Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -23317,12 +23317,12 @@
    "w": 16.9827,
    "n": -22.4536,
    "e": 17.1914,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 1467,
    "lines": 658,
    "buildings": 129176,
    "source": "region-1.osm.pbf",
-   "bytes": 336904,
+   "bytes": 337101,
    "rawBytes": 1232896,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/windhoek.sqlite.gz"
   },
