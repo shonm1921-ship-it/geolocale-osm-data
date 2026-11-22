@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:55:45.702Z",
+ "generated": "2026-11-22T09:21:25.675Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -5450,13 +5450,13 @@
    "w": 39.1405,
    "n": -6.6426,
    "e": 39.3748,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 34696,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 34700,
    "lines": 1010,
-   "buildings": 874069,
+   "buildings": 873980,
    "source": "region-9.osm.pbf",
-   "bytes": 3290361,
-   "rawBytes": 12685312,
+   "bytes": 3291820,
+   "rawBytes": 12689408,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/daressalaam.sqlite.gz"
   },
   {
@@ -5875,13 +5875,13 @@
    "w": 35.6424,
    "n": -5.9656,
    "e": 36.0108,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 996,
-   "lines": 310,
-   "buildings": 165537,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 945,
+   "lines": 257,
+   "buildings": 166892,
    "source": "region-9.osm.pbf",
-   "bytes": 375842,
-   "rawBytes": 1363968,
+   "bytes": 366423,
+   "rawBytes": 1314816,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/dodoma.sqlite.gz"
   },
   {
@@ -14154,13 +14154,13 @@
    "w": 32.8276,
    "n": -2.3926,
    "e": 33.0374,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 6593,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 6595,
    "lines": 189,
-   "buildings": 244633,
+   "buildings": 244641,
    "source": "region-9.osm.pbf",
-   "bytes": 789985,
-   "rawBytes": 3526656,
+   "bytes": 790160,
+   "rawBytes": 3530752,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/mwanza.sqlite.gz"
   },
   {
