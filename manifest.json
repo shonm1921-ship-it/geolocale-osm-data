@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:47:02.984Z",
+ "generated": "2026-11-22T08:47:04.462Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -10278,13 +10278,13 @@
    "w": 29.9916,
    "n": -1.8596,
    "e": 30.2056,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 2370,
-   "lines": 363,
-   "buildings": 260058,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 2332,
+   "lines": 355,
+   "buildings": 259928,
    "source": "region-8.osm.pbf",
-   "bytes": 526199,
-   "rawBytes": 1843200,
+   "bytes": 520219,
+   "rawBytes": 1830912,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/kigali.sqlite.gz"
   },
   {
