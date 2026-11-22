@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:56:56.247Z",
+ "generated": "2026-11-22T07:57:55.391Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -5093,13 +5093,13 @@
    "w": 2.2997,
    "n": 6.4429,
    "e": 2.5148,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 2746,
-   "lines": 330,
-   "buildings": 81630,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 2760,
+   "lines": 328,
+   "buildings": 81647,
    "source": "region-0.osm.pbf",
-   "bytes": 399811,
-   "rawBytes": 1376256,
+   "bytes": 397856,
+   "rawBytes": 1347584,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/cotonou.sqlite.gz"
   },
   {
