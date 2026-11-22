@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:06:38.402Z",
+ "generated": "2026-11-22T11:07:14.149Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -16126,13 +16126,13 @@
    "w": -79.6264,
    "n": 9.0806,
    "e": -79.3999,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5322,
-   "lines": 1162,
-   "buildings": 51326,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 5371,
+   "lines": 1164,
+   "buildings": 51627,
    "source": "region-2.osm.pbf",
-   "bytes": 713003,
-   "rawBytes": 2461696,
+   "bytes": 719577,
+   "rawBytes": 2490368,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/panamacity.sqlite.gz"
   },
   {
