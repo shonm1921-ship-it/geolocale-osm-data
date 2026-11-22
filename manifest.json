@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:07:23.470Z",
+ "generated": "2026-11-22T08:07:46.589Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -9411,12 +9411,12 @@
    "w": 31.4824,
    "n": 4.9574,
    "e": 31.6775,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 1000,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 999,
    "lines": 310,
-   "buildings": 553723,
+   "buildings": 553656,
    "source": "region-0.osm.pbf",
-   "bytes": 389338,
+   "bytes": 389204,
    "rawBytes": 1339392,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/juba.sqlite.gz"
   },
