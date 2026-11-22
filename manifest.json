@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:45:43.409Z",
+ "generated": "2026-11-22T08:47:02.984Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -15854,12 +15854,12 @@
    "w": -1.6459,
    "n": 12.4574,
    "e": -1.413,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 4117,
-   "lines": 956,
-   "buildings": 339004,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 4119,
+   "lines": 955,
+   "buildings": 339002,
    "source": "region-9.osm.pbf",
-   "bytes": 690444,
+   "bytes": 689809,
    "rawBytes": 2514944,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/ouagadougou.sqlite.gz"
   },
