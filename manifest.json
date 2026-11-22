@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:12:00.091Z",
+ "generated": "2026-11-22T11:13:43.447Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -14987,12 +14987,12 @@
    "w": 2.0083,
    "n": 13.5994,
    "e": 2.1947,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 3695,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 3697,
    "lines": 657,
-   "buildings": 201192,
+   "buildings": 201199,
    "source": "region-2.osm.pbf",
-   "bytes": 577264,
+   "bytes": 577411,
    "rawBytes": 1974272,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/niamey.sqlite.gz"
   },
