@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:01:06.104Z",
+ "generated": "2026-11-22T08:01:29.627Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -6946,12 +6946,12 @@
    "w": 25.7839,
    "n": -24.4886,
    "e": 26.0291,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 808,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 812,
    "lines": 455,
    "buildings": 160607,
    "source": "region-0.osm.pbf",
-   "bytes": 388828,
+   "bytes": 389280,
    "rawBytes": 1454080,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/gaborone.sqlite.gz"
   },
