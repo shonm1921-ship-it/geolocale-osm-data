@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:56:29.944Z",
+ "generated": "2026-11-22T07:56:47.857Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -17112,12 +17112,12 @@
    "w": -23.5964,
    "n": 15.0004,
    "e": -23.4253,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 470,
    "lines": 392,
    "buildings": 20446,
    "source": "region-2.osm.pbf",
-   "bytes": 118299,
+   "bytes": 118320,
    "rawBytes": 442368,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/praia.sqlite.gz"
   },
