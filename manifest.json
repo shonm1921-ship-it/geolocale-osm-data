@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:03:01.242Z",
+ "generated": "2026-11-22T08:03:53.129Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -12726,12 +12726,12 @@
    "w": 73.4104,
    "n": 4.2784,
    "e": 73.6086,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 1389,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 1392,
    "lines": 41,
    "buildings": 5361,
    "source": "region-9.osm.pbf",
-   "bytes": 145680,
+   "bytes": 146122,
    "rawBytes": 483328,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/male.sqlite.gz"
   },
