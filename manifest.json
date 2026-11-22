@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:38:09.195Z",
+ "generated": "2026-11-22T08:38:51.860Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -11451,13 +11451,13 @@
    "w": -15.5215,
    "n": 28.2197,
    "e": -15.3393,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 8118,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 8125,
    "lines": 1482,
-   "buildings": 23349,
+   "buildings": 23350,
    "source": "region-9.osm.pbf",
-   "bytes": 774941,
-   "rawBytes": 2600960,
+   "bytes": 775477,
+   "rawBytes": 2605056,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/laspalmas.sqlite.gz"
   },
   {
