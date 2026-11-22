@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:38:51.860Z",
+ "generated": "2026-11-22T08:40:04.209Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -911,13 +911,13 @@
    "w": 47.4367,
    "n": -18.8084,
    "e": 47.6298,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 4839,
-   "lines": 891,
-   "buildings": 175803,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 4878,
+   "lines": 893,
+   "buildings": 179224,
    "source": "region-3.osm.pbf",
-   "bytes": 702483,
-   "rawBytes": 2514944,
+   "bytes": 709223,
+   "rawBytes": 2543616,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/antananarivo.sqlite.gz"
   },
   {
