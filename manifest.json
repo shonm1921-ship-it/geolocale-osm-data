@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:56:19.531Z",
+ "generated": "2026-11-22T07:56:28.431Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -16942,12 +16942,12 @@
    "w": 57.4182,
    "n": -20.0893,
    "e": 57.5897,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 1924,
-   "lines": 980,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 1926,
+   "lines": 984,
    "buildings": 24438,
    "source": "region-3.osm.pbf",
-   "bytes": 330799,
+   "bytes": 331256,
    "rawBytes": 1187840,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/portlouis.sqlite.gz"
   },
