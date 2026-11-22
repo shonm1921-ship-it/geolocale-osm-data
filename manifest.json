@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:07:14.149Z",
+ "generated": "2026-11-22T11:07:45.719Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -18744,12 +18744,12 @@
    "w": 44.1211,
    "n": 15.4474,
    "e": 44.2949,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5538,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 5535,
    "lines": 647,
    "buildings": 74045,
    "source": "region-2.osm.pbf",
-   "bytes": 684937,
+   "bytes": 685048,
    "rawBytes": 2326528,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-asia/sanaa.sqlite.gz"
   },
