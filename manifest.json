@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:16:32.420Z",
+ "generated": "2026-11-22T08:17:26.172Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -12403,13 +12403,13 @@
    "w": 28.1981,
    "n": -15.3028,
    "e": 28.4389,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 5521,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 5538,
    "lines": 664,
-   "buildings": 425027,
+   "buildings": 425171,
    "source": "region-0.osm.pbf",
-   "bytes": 919472,
-   "rawBytes": 3354624,
+   "bytes": 921344,
+   "rawBytes": 3358720,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/lusaka.sqlite.gz"
   },
   {
