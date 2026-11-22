@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:53:18.773Z",
+ "generated": "2026-11-22T08:55:45.702Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -13100,12 +13100,12 @@
    "w": 27.3827,
    "n": -29.2155,
    "e": 27.601,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 1229,
-   "lines": 772,
-   "buildings": 126303,
+   "lines": 775,
+   "buildings": 126819,
    "source": "region-9.osm.pbf+region-9.osm.pbf",
-   "bytes": 425007,
+   "bytes": 425192,
    "rawBytes": 1609728,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/maseru.sqlite.gz"
   },
