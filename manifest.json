@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:17:26.172Z",
+ "generated": "2026-11-22T08:18:13.417Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -129,13 +129,13 @@
    "w": -0.2807,
    "n": 5.7029,
    "e": -0.0333,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 8613,
-   "lines": 1340,
-   "buildings": 333226,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 8609,
+   "lines": 1346,
+   "buildings": 334064,
    "source": "region-3.osm.pbf",
-   "bytes": 1265221,
-   "rawBytes": 4096000,
+   "bytes": 1267957,
+   "rawBytes": 4108288,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/accra.sqlite.gz"
   },
   {
@@ -11043,13 +11043,13 @@
    "w": -1.7047,
    "n": 6.8015,
    "e": -1.5248,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 2169,
    "lines": 294,
-   "buildings": 200257,
+   "buildings": 202231,
    "source": "region-3.osm.pbf",
-   "bytes": 467094,
-   "rawBytes": 1662976,
+   "bytes": 469004,
+   "rawBytes": 1667072,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/kumasi.sqlite.gz"
   },
   {
@@ -20801,12 +20801,12 @@
    "w": -0.9383,
    "n": 9.4974,
    "e": -0.771,
-   "osm_date": "2026-10-31T21:23:06Z",
+   "osm_date": "2026-11-21T21:20:51Z",
    "places": 802,
-   "lines": 113,
-   "buildings": 140438,
+   "lines": 114,
+   "buildings": 140668,
    "source": "region-3.osm.pbf",
-   "bytes": 276955,
+   "bytes": 277650,
    "rawBytes": 1003520,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/tamale.sqlite.gz"
   },
