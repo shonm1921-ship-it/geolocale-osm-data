@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:18:43.226Z",
+ "generated": "2026-11-22T08:18:44.539Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -18829,13 +18829,13 @@
    "w": -84.2514,
    "n": 10.0094,
    "e": -83.9646,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 15095,
-   "lines": 1833,
-   "buildings": 46466,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 15125,
+   "lines": 1841,
+   "buildings": 46465,
    "source": "region-3.osm.pbf",
-   "bytes": 1737201,
-   "rawBytes": 5824512,
+   "bytes": 1740953,
+   "rawBytes": 5820416,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-central-america/sanjose.sqlite.gz"
   },
   {
