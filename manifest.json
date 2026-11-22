@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:18:44.539Z",
+ "generated": "2026-11-22T08:23:41.365Z",
  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
  "cities": [
   {
@@ -12114,12 +12114,12 @@
    "w": 1.1062,
    "n": 6.2694,
    "e": 1.3758,
-   "osm_date": "2026-10-31T21:23:06Z",
-   "places": 7267,
+   "osm_date": "2026-11-21T21:20:51Z",
+   "places": 7270,
    "lines": 774,
-   "buildings": 292477,
+   "buildings": 292490,
    "source": "region-3.osm.pbf+region-3.osm.pbf",
-   "bytes": 977564,
+   "bytes": 978169,
    "rawBytes": 2957312,
    "url": "https://github.com/shonm1921-ship-it/geolocale-osm-data/releases/download/cities-africa/lome.sqlite.gz"
   },
